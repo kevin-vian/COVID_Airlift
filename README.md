@@ -4,8 +4,7 @@ This repository was inspired by Paul Yarin's Medium post on exploring the feasib
 https://medium.com/@yarin/urgent-need-for-data-science-modeling-of-airborne-national-medical-evacuation-network-to-address-c2acd2dd1aaa
 
 To install and run the simulation locally:
-'''
-source COVID_Airlift/medevac/bin/activate
+'''source COVID_Airlift/medevac/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 '''
