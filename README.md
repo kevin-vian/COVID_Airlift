@@ -10,9 +10,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ## Notes:
--Open COVID-19_Medevac_Exploration_V6.ipynb in the browser launched by Jupyter 
--The cells of the notebook should be run linearly (top to bottom)
--Please refer to comments in the notebook for explanations of inputs, outputs, and modeling assumptions
+- Open COVID-19_Medevac_Exploration_V6.ipynb in the browser launched by Jupyter 
+- The cells of the notebook should be run linearly (top to bottom)
+- Please refer to comments in the notebook for explanations of inputs, outputs, and modeling assumptions
 
 ## To Do List
 - [ ] Modify trainer to make mortality rate a learned variable (currently given)
