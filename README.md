@@ -3,7 +3,7 @@
 This repository was inspired by Paul Yarin's Medium post on exploring the feasibility of airlifting COVID-19 patients to relieve overcrowded hospitals in the United States.
 https://medium.com/@yarin/urgent-need-for-data-science-modeling-of-airborne-national-medical-evacuation-network-to-address-c2acd2dd1aaa
 
-## To install and run the simulation locally:
+## To install and run the simulations locally:
 ```
 source COVID_Airlift/medevac/bin/activate
 pip install -r requirements.txt
